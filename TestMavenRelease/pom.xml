@@ -2,12 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>cbx.com</groupId>
   <artifactId>TestMavenRelease</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>v1.0.0</version>
   <name>TestMavenRelease</name>
   <url>http://maven.apache.org</url>
 
     <scm>
     <developerConnection>scm:git:ssh://jack.lin@git.zh.coresolutions.com:29418/CBX_Business</developerConnection>
+    <tag>v1.0.0</tag>
   </scm>
 
   <build>
